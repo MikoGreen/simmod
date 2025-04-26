@@ -1,0 +1,98 @@
+CPN Tools state space report for:
+/home/openmodelica/Desktop/lab12/lab.cpn
+Report generated: Sat Apr 19 18:33:57 2025
+
+
+ Statistics
+------------------------------------------------------------------------
+
+  State Space
+     Nodes:  1
+     Arcs:   0
+     Secs:   0
+     Status: Full
+
+  Scc Graph
+     Nodes:  1
+     Arcs:   0
+     Secs:   0
+
+
+ Boundedness Properties
+------------------------------------------------------------------------
+
+  Best Integer Bounds
+                             Upper      Lower
+     Main'A 1                0          0
+     Main'B 1                0          0
+     Main'C 1                0          0
+     Main'D 1                0          0
+     Main'NextRec 1          1          1
+     Main'NextSend 1         1          1
+     Main'Recieved 1         1          1
+     Main'SA 1               1          1
+     Main'SP 1               1          1
+     Main'Sender 1           8          8
+
+  Best Upper Multi-set Bounds
+     Main'A 1            empty
+     Main'B 1            empty
+     Main'C 1            empty
+     Main'D 1            empty
+     Main'NextRec 1      1`9
+     Main'NextSend 1     1`9
+     Main'Recieved 1     1`"Modelling and Analysis by Means of Coloured Petry Nets##"
+     Main'SA 1           1`8
+     Main'SP 1           1`8
+     Main'Sender 1       1`(1,"Modellin")++
+1`(2,"g and An")++
+1`(3,"alysis b")++
+1`(4,"y Means ")++
+1`(5,"of Colou")++
+1`(6,"red Petr")++
+1`(7,"y Nets##")++
+1`(8,"########")
+
+  Best Lower Multi-set Bounds
+     Main'A 1            empty
+     Main'B 1            empty
+     Main'C 1            empty
+     Main'D 1            empty
+     Main'NextRec 1      1`9
+     Main'NextSend 1     1`9
+     Main'Recieved 1     1`"Modelling and Analysis by Means of Coloured Petry Nets##"
+     Main'SA 1           1`8
+     Main'SP 1           1`8
+     Main'Sender 1       1`(1,"Modellin")++
+1`(2,"g and An")++
+1`(3,"alysis b")++
+1`(4,"y Means ")++
+1`(5,"of Colou")++
+1`(6,"red Petr")++
+1`(7,"y Nets##")++
+1`(8,"########")
+
+
+ Home Properties
+------------------------------------------------------------------------
+
+  Home Markings
+     All
+
+
+ Liveness Properties
+------------------------------------------------------------------------
+
+  Dead Markings
+     All
+
+  Dead Transition Instances
+     All
+
+  Live Transition Instances
+     None
+
+
+ Fairness Properties
+------------------------------------------------------------------------
+     No infinite occurrence sequences.

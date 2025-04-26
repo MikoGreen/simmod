@@ -1,0 +1,247 @@
+CPN Tools simulation report for:
+/cygdrive/C/Users/Home/vbox/lab12/lab.cpn
+Report generated: Fri Apr 25 23:07:52 2025
+
+1	0	Send_Packet @ (1:Main)
+ - p = "Modellin"
+ - n = 1
+2	0	Transmit_Packet @ (1:Main)
+ - n = 1
+ - p = "Modellin"
+ - s = 8
+ - r = 6
+3	0	Receive_Packet @ (1:Main)
+ - n = 1
+ - p = "Modellin"
+ - k = 1
+ - str = ""
+4	0	Transmit_ACK @ (1:Main)
+ - n = 2
+ - s = 8
+ - r = 3
+5	0	Send_Packet @ (1:Main)
+ - p = "Modellin"
+ - n = 1
+6	0	Recieve_ACK @ (1:Main)
+ - n = 2
+ - k = 1
+7	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+8	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 2
+9	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+10	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 2
+ - str = "Modellin"
+11	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+12	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 9
+13	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+14	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 9
+15	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+16	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+17	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 9
+18	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+19	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 1
+20	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+21	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 2
+22	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+23	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 3
+24	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+25	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+26	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 4
+27	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 2
+28	0	Transmit_Packet @ (1:Main)
+ - n = 1
+ - p = "Modellin"
+ - s = 8
+ - r = 5
+29	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 7
+30	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 3
+31	0	Receive_Packet @ (1:Main)
+ - n = 1
+ - p = "Modellin"
+ - k = 3
+ - str = "Modelling and An"
+32	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+33	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 0
+34	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 3
+35	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 4
+36	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 10
+37	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+38	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+39	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+40	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 9
+41	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+42	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 1
+43	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+44	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+45	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+46	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+47	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 10
+48	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+49	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 3
+50	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+51	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 8
+52	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 3
+ - str = "Modelling and An"
+53	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 9
+54	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+55	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 8
+56	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+57	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 2
+58	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+59	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 5
+60	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+61	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 4

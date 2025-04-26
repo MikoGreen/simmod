@@ -1,0 +1,1207 @@
+CPN Tools simulation report for:
+/home/openmodelica/Desktop/lab12/lab.cpn
+Report generated: Sat Apr 19 18:20:18 2025
+
+28	0	Receive_Packet @ (1:Main)
+29	0	Transmit_ACK @ (1:Main)
+ - n = 2
+ - s = 8
+ - r = 9
+30	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 5
+31	0	Recieve_ACK @ (1:Main)
+ - n = 2
+ - k = 2
+32	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 2
+ - str = "Modellin"
+33	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 8
+34	0	Send_Packet @ (1:Main)
+ - p = "g and An"
+ - n = 2
+35	0	Transmit_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - s = 8
+ - r = 5
+36	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+37	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+38	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 2
+39	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+40	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 4
+41	0	Receive_Packet @ (1:Main)
+ - n = 2
+ - p = "g and An"
+ - k = 3
+ - str = "Modelling and An"
+42	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 2
+43	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 7
+44	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 5
+45	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+46	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+47	0	Transmit_ACK @ (1:Main)
+ - n = 3
+ - s = 8
+ - r = 5
+48	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 2
+49	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 3
+ - str = "Modelling and An"
+50	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+51	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 3
+52	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 10
+53	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+54	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 3
+55	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 6
+56	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 5
+57	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+58	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+59	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+60	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 3
+61	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+62	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+63	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+64	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 0
+65	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+66	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 4
+67	0	Recieve_ACK @ (1:Main)
+ - n = 4
+ - k = 3
+68	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 4
+69	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+70	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 2
+71	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+72	0	Send_Packet @ (1:Main)
+ - p = "alysis b"
+ - n = 3
+73	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 3
+74	0	Recieve_ACK @ (1:Main)
+ - n = 4
+ - k = 3
+75	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+76	0	Recieve_ACK @ (1:Main)
+ - n = 3
+ - k = 4
+77	0	Recieve_ACK @ (1:Main)
+ - n = 4
+ - k = 3
+78	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+79	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+80	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 2
+81	0	Recieve_ACK @ (1:Main)
+ - n = 4
+ - k = 4
+82	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+83	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 5
+84	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+85	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 2
+86	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 10
+87	0	Recieve_ACK @ (1:Main)
+ - n = 4
+ - k = 4
+88	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+89	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+90	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 1
+91	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 4
+92	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 4
+ - str = "Modelling and Analysis b"
+93	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 8
+94	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 6
+95	0	Transmit_ACK @ (1:Main)
+ - n = 4
+ - s = 8
+ - r = 6
+96	0	Recieve_ACK @ (1:Main)
+ - n = 4
+ - k = 4
+97	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 2
+98	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+99	0	Recieve_ACK @ (1:Main)
+ - n = 4
+ - k = 4
+100	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 2
+101	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+102	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+103	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+104	0	Send_Packet @ (1:Main)
+ - p = "y Means "
+ - n = 4
+105	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 4
+ - str = "Modelling and Analysis b"
+106	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 5
+ - str = "Modelling and Analysis by Means "
+107	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 5
+ - str = "Modelling and Analysis by Means "
+108	0	Transmit_ACK @ (1:Main)
+ - n = 5
+ - s = 8
+ - r = 0
+109	0	Recieve_ACK @ (1:Main)
+ - n = 5
+ - k = 4
+110	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 5
+ - str = "Modelling and Analysis by Means "
+111	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+112	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 8
+113	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 5
+ - str = "Modelling and Analysis by Means "
+114	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+115	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 1
+116	0	Transmit_ACK @ (1:Main)
+ - n = 5
+ - s = 8
+ - r = 7
+117	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 3
+118	0	Recieve_ACK @ (1:Main)
+ - n = 5
+ - k = 5
+119	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 5
+ - str = "Modelling and Analysis by Means "
+120	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 5
+ - str = "Modelling and Analysis by Means "
+121	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+122	0	Transmit_ACK @ (1:Main)
+ - n = 5
+ - s = 8
+ - r = 1
+123	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+124	0	Recieve_ACK @ (1:Main)
+ - n = 5
+ - k = 5
+125	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+126	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 5
+127	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 5
+ - str = "Modelling and Analysis by Means "
+128	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+129	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+130	0	Transmit_ACK @ (1:Main)
+ - n = 5
+ - s = 8
+ - r = 1
+131	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 9
+132	0	Recieve_ACK @ (1:Main)
+ - n = 5
+ - k = 5
+133	0	Transmit_ACK @ (1:Main)
+ - n = 5
+ - s = 8
+ - r = 9
+134	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 4
+135	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 9
+136	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 4
+137	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+138	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 7
+139	0	Transmit_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - s = 8
+ - r = 3
+140	0	Transmit_ACK @ (1:Main)
+ - n = 6
+ - s = 8
+ - r = 10
+141	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 9
+142	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 6
+ - str = "Modelling and Analysis by Means of Colou"
+143	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 6
+ - str = "Modelling and Analysis by Means of Colou"
+144	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+145	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+146	0	Transmit_ACK @ (1:Main)
+ - n = 5
+ - s = 8
+ - r = 2
+147	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+148	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 6
+ - str = "Modelling and Analysis by Means of Colou"
+149	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 6
+150	0	Recieve_ACK @ (1:Main)
+ - n = 5
+ - k = 5
+151	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 6
+ - str = "Modelling and Analysis by Means of Colou"
+152	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 7
+153	0	Transmit_ACK @ (1:Main)
+ - n = 6
+ - s = 8
+ - r = 9
+154	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 9
+155	0	Transmit_ACK @ (1:Main)
+ - n = 6
+ - s = 8
+ - r = 1
+156	0	Send_Packet @ (1:Main)
+ - p = "of Colou"
+ - n = 5
+157	0	Recieve_ACK @ (1:Main)
+ - n = 6
+ - k = 5
+158	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+159	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+160	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+161	0	Transmit_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - s = 8
+ - r = 2
+162	0	Transmit_ACK @ (1:Main)
+ - n = 6
+ - s = 8
+ - r = 3
+163	0	Transmit_ACK @ (1:Main)
+ - n = 6
+ - s = 8
+ - r = 9
+164	0	Receive_Packet @ (1:Main)
+ - n = 3
+ - p = "alysis b"
+ - k = 6
+ - str = "Modelling and Analysis by Means of Colou"
+165	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 6
+ - str = "Modelling and Analysis by Means of Colou"
+166	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+167	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 6
+168	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+169	0	Transmit_ACK @ (1:Main)
+ - n = 6
+ - s = 8
+ - r = 4
+170	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 7
+171	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 6
+172	0	Recieve_ACK @ (1:Main)
+ - n = 6
+ - k = 6
+173	0	Recieve_ACK @ (1:Main)
+ - n = 6
+ - k = 6
+174	0	Transmit_ACK @ (1:Main)
+ - n = 6
+ - s = 8
+ - r = 7
+175	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 10
+176	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+177	0	Transmit_ACK @ (1:Main)
+ - n = 5
+ - s = 8
+ - r = 10
+178	0	Receive_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - k = 6
+ - str = "Modelling and Analysis by Means of Colou"
+179	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 5
+180	0	Recieve_ACK @ (1:Main)
+ - n = 6
+ - k = 6
+181	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 0
+182	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+183	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+184	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+185	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 5
+186	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 7
+187	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 9
+188	0	Send_Packet @ (1:Main)
+ - p = "red Petr"
+ - n = 6
+189	0	Receive_Packet @ (1:Main)
+ - n = 4
+ - p = "y Means "
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+190	0	Recieve_ACK @ (1:Main)
+ - n = 7
+ - k = 6
+191	0	Receive_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+192	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 10
+193	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 8
+194	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+195	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+196	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 8
+197	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 6
+198	0	Recieve_ACK @ (1:Main)
+ - n = 7
+ - k = 7
+199	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+200	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+201	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+202	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 1
+203	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+204	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+205	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 8
+206	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 10
+207	0	Receive_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+208	0	Recieve_ACK @ (1:Main)
+ - n = 7
+ - k = 7
+209	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 5
+210	0	Recieve_ACK @ (1:Main)
+ - n = 7
+ - k = 7
+211	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 4
+212	0	Recieve_ACK @ (1:Main)
+ - n = 7
+ - k = 7
+213	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 5
+214	0	Transmit_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - s = 8
+ - r = 8
+215	0	Receive_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+216	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+217	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+218	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 10
+219	0	Transmit_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - s = 8
+ - r = 8
+220	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 10
+221	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+222	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 7
+223	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+224	0	Receive_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+225	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+226	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 10
+227	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 5
+228	0	Send_Packet @ (1:Main)
+ - p = "y Nets##"
+ - n = 7
+229	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 1
+230	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 7
+ - str = "Modelling and Analysis by Means of Coloured Petr"
+231	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 4
+232	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 0
+233	0	Recieve_ACK @ (1:Main)
+ - n = 7
+ - k = 7
+234	0	Transmit_ACK @ (1:Main)
+ - n = 7
+ - s = 8
+ - r = 3
+235	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 1
+236	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 7
+237	0	Recieve_ACK @ (1:Main)
+ - n = 8
+ - k = 7
+238	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+239	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 4
+240	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+241	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+242	0	Recieve_ACK @ (1:Main)
+ - n = 7
+ - k = 8
+243	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 3
+244	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+245	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+246	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+247	0	Transmit_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - s = 8
+ - r = 1
+248	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+249	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 4
+250	0	Recieve_ACK @ (1:Main)
+ - n = 8
+ - k = 7
+251	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+252	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 8
+253	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 7
+254	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 7
+255	0	Recieve_ACK @ (1:Main)
+ - n = 8
+ - k = 8
+256	0	Recieve_ACK @ (1:Main)
+ - n = 8
+ - k = 8
+257	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+258	0	Receive_Packet @ (1:Main)
+ - n = 5
+ - p = "of Colou"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+259	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 4
+260	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+261	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 10
+262	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 7
+263	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+264	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 4
+265	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 8
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+266	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+267	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+268	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+269	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+270	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 10
+271	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 0
+272	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 5
+273	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 8
+274	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 3
+275	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 0
+276	0	Receive_Packet @ (1:Main)
+ - n = 6
+ - p = "red Petr"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+277	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 3
+278	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+279	0	Recieve_ACK @ (1:Main)
+ - n = 8
+ - k = 9
+280	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+281	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 8
+282	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+283	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 7
+284	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+285	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+286	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+287	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+288	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 8
+289	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+290	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 7
+291	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+292	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 6
+293	0	Receive_Packet @ (1:Main)
+ - n = 7
+ - p = "y Nets##"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+294	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 5
+295	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 4
+296	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+297	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 2
+298	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 7
+299	0	Recieve_ACK @ (1:Main)
+ - n = 8
+ - k = 9
+300	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 2
+301	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+302	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+303	0	Transmit_ACK @ (1:Main)
+ - n = 8
+ - s = 8
+ - r = 5
+304	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 0
+305	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+306	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 8
+307	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+308	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 4
+309	0	Recieve_ACK @ (1:Main)
+ - n = 8
+ - k = 9
+310	0	Send_Packet @ (1:Main)
+ - p = "########"
+ - n = 8
+311	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 8
+312	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 0
+313	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 10
+314	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+315	0	Transmit_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - s = 8
+ - r = 5
+316	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+317	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+318	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 5
+319	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+320	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 9
+321	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+322	0	Receive_Packet @ (1:Main)
+ - n = 8
+ - p = "########"
+ - k = 9
+ - str = "Modelling and Analysis by Means of Coloured Petry Nets##"
+323	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 4
+324	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
+325	0	Transmit_ACK @ (1:Main)
+ - n = 9
+ - s = 8
+ - r = 4
+326	0	Recieve_ACK @ (1:Main)
+ - n = 9
+ - k = 9
