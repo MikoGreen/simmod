@@ -1,0 +1,86 @@
+CPN Tools state space report for:
+/cygdrive/C/Users/Home/vbox/lab13/lab.cpn
+Report generated: Thu May  1 17:55:47 2025
+
+
+ Statistics
+------------------------------------------------------------------------
+
+  State Space
+     Nodes:  5
+     Arcs:   10
+     Secs:   0
+     Status: Full
+
+  Scc Graph
+     Nodes:  1
+     Arcs:   0
+     Secs:   0
+
+
+ Boundedness Properties
+------------------------------------------------------------------------
+
+  Best Integer Bounds
+                             Upper      Lower
+     lab13'P1 1              1          1
+     lab13'P2 1              1          0
+     lab13'P3 1              1          0
+     lab13'P4 1              1          0
+     lab13'P5 1              1          0
+     lab13'P6 1              1          0
+
+  Best Upper Multi-set Bounds
+     lab13'P1 1          1`memory
+     lab13'P2 1          1`storage1
+     lab13'P3 1          1`storage2
+     lab13'P4 1          1`storage1
+     lab13'P5 1          1`storage2
+     lab13'P6 1          1`(storage1,storage2)
+
+  Best Lower Multi-set Bounds
+     lab13'P1 1          1`memory
+     lab13'P2 1          empty
+     lab13'P3 1          empty
+     lab13'P4 1          empty
+     lab13'P5 1          empty
+     lab13'P6 1          empty
+
+
+ Home Properties
+------------------------------------------------------------------------
+
+  Home Markings
+     All
+
+
+ Liveness Properties
+------------------------------------------------------------------------
+
+  Dead Markings
+     None
+
+  Dead Transition Instances
+     None
+
+  Live Transition Instances
+     All
+
+
+ Fairness Properties
+------------------------------------------------------------------------
+
+  Impartial Transition Instances
+     None
+
+  Fair Transition Instances
+     lab13'T6 1
+
+  Just Transition Instances
+     lab13'T5 1
+
+  Transition Instances with No Fairness
+     lab13'T1 1
+     lab13'T2 1
+     lab13'T3 1
+     lab13'T4 1
